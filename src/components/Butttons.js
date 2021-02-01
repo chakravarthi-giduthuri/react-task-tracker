@@ -1,13 +1,13 @@
 import PropTypes from "prop-types";
 
-function Buttton({ color, onclick }) {
+function Buttton({ color, onclick, text }) {
   return (
     <button
       onClick={onclick}
       style={{ backgroundColor: color }}
       className="btn"
     >
-      Add
+      {text}
     </button>
   );
 }

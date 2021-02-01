@@ -8,16 +8,7 @@ function Task({ task, ondelete, ontoggle }) {
     >
       <h3>
         {task.text}
-        <button
-          style={{
-            color: "white",
-            backgroundColor: "red",
-            width: 50,
-            height: 30,
-            cursor: "pointer",
-          }}
-          onClick={() => ondelete(task.id)}
-        >
+        <button className="btn" onClick={() => ondelete(task.id)}>
           delete
         </button>
       </h3>
