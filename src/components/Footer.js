@@ -4,7 +4,7 @@ function Footer() {
   return (
     <footer>
       <p>
-        Copyright &copy; 2020 <strong>maddcoder</strong>
+        Copyright &copy; 2020 <strong>madcodder</strong>
       </p>
     </footer>
   );

@@ -11,6 +11,12 @@
       "day": "feb 2",
       "reminder": false,
       "id": 4
+    },
+    {
+      "text": "test from desktop",
+      "day": "feb 2",
+      "reminder": true,
+      "id": 5
     }
   ]
 }
