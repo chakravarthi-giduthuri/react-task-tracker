@@ -3,13 +3,13 @@
     {
       "text": "testing server",
       "day": "feb 2",
-      "reminder": false,
+      "reminder": true,
       "id": 3
     },
     {
       "text": "test main site",
       "day": "feb 2",
-      "reminder": false,
+      "reminder": true,
       "id": 4
     },
     {
